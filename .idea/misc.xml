@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/Desktop/CamaraMenuLateral/app/src/main/res/layout/content_main.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/USER/Desktop/CamaraMenuLateral/app/src/main/res/layout/fragment_gallery.xml" value="0.2" />
+        <entry key="..\:/Users/USER/OneDrive/clase/android/proyectosTochos/CamaraMenuLateral/app/src/main/res/layout/fragment_home.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/USER/OneDrive/clase/android/proyectosTochos/CamaraMenuLateral/app/src/main/res/layout/fragment_slideshow.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/USER/OneDrive/clase/android/proyectosTochos/CamaraMenuLateral/app/src/main/res/layout/fragment_vista_imagen.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/USER/OneDrive/clase/android/proyectosTochos/CamaraMenuLateral/app/src/main/res/layout/imagen_view.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/USER/OneDrive/clase/android/proyectosTochos/CamaraMenuLateral/app/src/main/res/layout/preview.xml" value="0.2557291666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
